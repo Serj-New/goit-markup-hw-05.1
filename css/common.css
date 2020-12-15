@@ -197,9 +197,7 @@ img {
 .menu__list-link:hover,
 .menu__list-link:focus,
 .address__item-link:hover,
-.address__item-link:focus,
-.address__item-link:hover .address-icon,
-.address__item-link:focus .address-icon {
+.address__item-link:focus {
   color: var(--accent-color);
   outline: none;
 }
